@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Blog App</string>
+    <string name="action_settings">signout</string>
+    <string name="welcome_note">Welcome To My Blog</string>
+    <string name="default_name">Benedict</string>
+    <string name="blogs">Popular Trends</string>
+    <string name="blogs_topic">Blog Title</string>
+</resources>
